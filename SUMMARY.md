@@ -22,4 +22,6 @@
 * [JFace Wizards & Dialogs](jface-wizards-and-dialogs/README.md)
   * [Message Dialog from Eclipse](jface-wizards-and-dialogs/message-dialog-from-eclipse.md)
   * [Extending Wizards](jface-wizards-and-dialogs/extending-wizards.md)
+* [Known Issues](known-issues.md)
+* [Could not launch the product because the associated workspace is currently in use by another Eclipse](could-not-launch-the-product-because-the-associated-workspace-is-currently-in-use-by-another-eclipse.md)
 
