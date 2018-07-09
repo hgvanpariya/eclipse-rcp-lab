@@ -1,0 +1,2 @@
+# Understanding MANIFEST.MF view
+
