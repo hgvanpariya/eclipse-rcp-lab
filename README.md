@@ -22,3 +22,5 @@ Here we are explaining following topics from Eclipse RCP
 
 {% page-ref page="jface-wizards-and-dialogs/" %}
 
+{% page-ref page="known-issues/" %}
+
