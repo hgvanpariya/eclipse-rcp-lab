@@ -20,7 +20,7 @@ Here we are explaining following topics from Eclipse RCP
 
 {% page-ref page="perspective/" %}
 
-{% page-ref page="jface-wizards-and-dialogs/" %}
+{% page-ref page="jface-wizards-and-dialogs.md" %}
 
 {% page-ref page="known-issues/" %}
 

@@ -19,9 +19,10 @@
   * [Developing, Installing and Running a Plug-in](plug-in-development/developing-installing-and-running-a-plug-in.md)
 * [Perspective](perspective/README.md)
   * [Create our own Perspective, and add Views , Actions to the Perspective](perspective/create-our-own-perspective-and-add-views-actions-to-the-perspective.md)
-* [JFace Wizards & Dialogs](jface-wizards-and-dialogs/README.md)
-  * [Message Dialog from Eclipse](jface-wizards-and-dialogs/message-dialog-from-eclipse.md)
-  * [Extending Wizards](jface-wizards-and-dialogs/extending-wizards.md)
+* [JFace Wizards & Dialogs](jface-wizards-and-dialogs-1/README.md)
+  * [Message Dialog from Eclipse](jface-wizards-and-dialogs-1/message-dialog-from-eclipse/README.md)
+    * [Extending Wizards](jface-wizards-and-dialogs-1/message-dialog-from-eclipse/extending-wizards.md)
+* [Preferences in RCP](jface-wizards-and-dialogs.md)
 * [Known Issues](known-issues/README.md)
   * [Could not launch the product because the associated workspace is currently in use by another Eclipse](known-issues/could-not-launch-the-product-because-the-associated-workspace-is-currently-in-use-by-another-eclipse.md)
 
